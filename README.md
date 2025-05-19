@@ -86,6 +86,11 @@ This app provides a welcoming interface for users with two main options:
 
 ## 🪪 License
 
-This project is open-source and free to use or modify.
+This project is licensed under the [MIT License](LICENSE).
+
+You are free to use, modify, and distribute this software with proper attribution.  
+See the [LICENSE](LICENSE) file for more details.
+
+
 
 
